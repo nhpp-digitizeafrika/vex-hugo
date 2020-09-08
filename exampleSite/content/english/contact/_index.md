@@ -7,7 +7,7 @@ office:
   mobile : "+264 81 242 4022"
   email : "hello@berthatobias.com"
   location : "Windhoek, Namibia"
-  content : "Please contact me using the details below"
+  content : "You can also reach out to us directly"
 
 # opennig hour
 

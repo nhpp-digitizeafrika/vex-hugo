@@ -1,5 +1,5 @@
 ---
-title: "Professional and Public Speaking Profile"
+title: "Speaker Profile"
 description : "this is a meta description"
 draft: false
 ---
