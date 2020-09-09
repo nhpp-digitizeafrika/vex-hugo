@@ -10,12 +10,6 @@ copyright = "Bertha Tobias 2020"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[Languages.fr]
-contentDir = "content/french"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-languageCode = "fr-fr"
-languageName = "Fr"
-weight = 2
 [[menu.main]]
 URL = "/"
 name = "About Bertha"
@@ -33,7 +27,7 @@ URL = "contact"
 name = "Book Bertha"
 weight = 4
 [params]
-<<<<<<< HEAD
+<<<<<<<HEAD 
 logo = "images/logo.png"
 logo_width = "100px"
 # Meta data
@@ -41,9 +35,9 @@ author = "Digitize Afrika"
 description = "Welcome to Bertha Tobias"
 # currency
 =======
-author = "Themefisher"
+>>>>>>>author = "Themefisher"
+cf25a8dba24ccb8c9801dac69b1ffb7756dc87ec 
 contact_form_action = "#"
->>>>>>> cf25a8dba24ccb8c9801dac69b1ffb7756dc87ec
 currency = "$"
 description = "This is meta description"
 logo = "images/logo.png"
