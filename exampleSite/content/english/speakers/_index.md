@@ -3,7 +3,7 @@ title: "Speaker Profile"
 description : "this is a meta description"
 draft: false
 ---
-
+## 
 2016 - BEST NAMIBIAN FEMALE SPEAKER ORATE 
 2016 - ENERGY 100FM DEBATER OF THE SEASON
 2016 - ENGLISH INTERNAL AND REGIONAL SPEECH COMPETITION WINNER
