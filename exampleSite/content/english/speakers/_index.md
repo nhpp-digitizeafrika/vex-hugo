@@ -2,6 +2,8 @@
 title: "Speaker Profile"
 description : "this is a meta description"
 draft: false
+
+
 ---
 ## 
 2016 - BEST NAMIBIAN FEMALE SPEAKER ORATE 
