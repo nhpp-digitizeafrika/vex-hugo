@@ -27,21 +27,11 @@ URL = "contact"
 name = "Book Bertha"
 weight = 4
 [params]
-<<<<<<<HEAD 
 logo = "images/logo.png"
 logo_width = "100px"
-# Meta data
-author = "Digitize Afrika"
-description = "Welcome to Bertha Tobias"
-# currency
-=======
->>>>>>>author = "Themefisher"
-cf25a8dba24ccb8c9801dac69b1ffb7756dc87ec 
-contact_form_action = "#"
-currency = "$"
-description = "This is meta description"
-logo = "images/logo.png"
-logo_width = "100px"
+# contact form action
+contact_form_action = "#" # contact form works with https://formspree.io
+# snipcart public api key
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]
 link = "https://fonts.googleapis.com/css?family=Droid+Serif:400|Josefin+Sans:300,400,600,700"
