@@ -8,6 +8,8 @@ images:
   - "images/showcase/speaker-4.jpg"
   - "images/showcase/speaker-5.jpg"
   - "images/showcase/speaker-6.jpg"
+  - "images/showcase/speaker-7.jpg"
+  - "images/showcase/speaker-8.jpg"
 
 # meta description
 description : "this is meta description"
