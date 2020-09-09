@@ -1,5 +1,5 @@
 ---
-title: "Event Title"
+title: "BeFree Ambassador"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/speaker-2.jpg"
@@ -17,4 +17,4 @@ description : "this is meta description"
 draft: false
 ---
 
-More information about this event
+2017 #BeFree Ambassador 

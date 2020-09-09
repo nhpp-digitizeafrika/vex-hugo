@@ -1,5 +1,5 @@
 ---
-title: "Event Title"
+title: "NAMIBIAN COVID-19"
 date: 2019-10-17T11:22:16+06:00
 images: 
   - "images/showcase/speaker-7.jpg"
@@ -17,4 +17,4 @@ description : "this is meta description"
 
 draft: false
 ---
-More information about this event
+2020 - NAMIBIAN COVID-19 COMMUNICATION CENTRE MODERATOR 

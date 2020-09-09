@@ -1,5 +1,5 @@
 ---
-title: "Event Title"
+title: "ONE ECONOMY FOUNDATION FUNDRAISING GALA"
 date: 2019-10-17T11:22:16+06:00
 image: "images/showcase/showcase-5.png"
 images: 
@@ -18,4 +18,4 @@ description : "this is meta description"
 draft: false
 ---
 
-More information about this event
+ONE ECONOMY FOUNDATION FUNDRAISING GALA 2019
