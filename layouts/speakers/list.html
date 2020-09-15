@@ -5,6 +5,16 @@
     <div class="row">
       <div class="col-12 text-center mb-5">
         <h1 class="font-weight-bold">{{.Title}}</h1>
+        <br>
+        <h4>• NAMIBIAN NATIONAL DEBATE TEAM </h4>
+        <h4>• NAMIBIAN NATIONAL BEST FEMALE SPEAKER, 2017 </h4>
+        <h4>• ENERGY 100FM DEBATER OF THE SEASON, 2016 </h4>
+        <h4>• ENGLISH INTERNAL AND REGIONAL SPEECH COMPETITION WINNER, 2016 & 2018 </h4>
+        <h4>• GERMAN FOREIGN LANGUAGE NATIONAL SPEECH COMPETITION WINNER, 2017 </h4>
+        <h4>• SADC FIRST LADIES YOUTH DIALOGUE FACILITATOR, 2018 </h4>
+        <h4>• STUDENT SPEAKER ASSEMBLY FOR NORWEGIAN KING AND QUEEN, 2019 </h4>
+        <h4>• SAM SHIVUTE INSPIRATIONS GUEST LECTURER, 2019 </h4>
+        <h4>• 2X YOUTH REPRESENTATIVE, ONE ECONOMY FOUNDATION FUNDRAISING GALA 2018 & 2019 </h4>
       </div>
       {{ range (where .Site.RegularPages "Section" "speakers") }}
       <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
@@ -16,10 +26,11 @@
           </div>
           <img class="img-fluid" src="{{range first 1 .Params.images}}{{.|absURL}}{{end}}" alt="{{.Title}}">
         </div>
+        <!-- 
         <div class="product-info">
           <h4 class="mb-2">{{.Title}}</h4>
-
         </div>
+        -->
       </div>
       {{ end }}
     </div>
