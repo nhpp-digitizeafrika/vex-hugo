@@ -7,7 +7,7 @@ office:
   email: hello@berthatobias.com
   location: Claremont, California USA / Windhoek, Namibia
   content: You can also reach out to us directly
-
+bg_image : "images/bertha-1.jpg"
 
 # opennig hour
 opennig_hour:
