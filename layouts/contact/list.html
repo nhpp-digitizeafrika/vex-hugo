@@ -1,6 +1,15 @@
 {{ define "main" }}
+{{ $data := index .Site.Data .Site.Language.Lang }}
 
-<section class="call-to-action section bg-opacity">
+{{- if $data.homepage.subscription.enable }}
+
+{{- with $data.homepage.subscription }}
+
+
+<section class="call-to-action section bg-opacity" style="background-image: url('{{ .bg_image2 | absURL }}');">
+
+  {{ end }}
+  {{ end }}
   <div class=" container">
     <div class="row justify-content-center">
       {{ with .Params.office }}
@@ -53,5 +62,6 @@
     </div>
   </div>
 </section>
+
 
 {{ end }}
