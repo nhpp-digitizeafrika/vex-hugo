@@ -115,7 +115,7 @@ products:
 ################################## Subscription ###################
 subscription:
   enable : true
-  bg_image : "images/bg1.jpg"
+  bg_image : "images/bertha-1.jpg"
   bg_image2 : "images/cntact-bg.png"
   title : "About Bertha Tobias"
   content : "Known for her razor sharp eloquence, unyielding drive and professional versatility, 
