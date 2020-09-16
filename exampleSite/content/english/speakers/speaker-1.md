@@ -1,15 +1,18 @@
 ---
-title: "2020 - NAMIBIAN COVID-19 COMMUNICATION CENTRE"
+title: "Photos from our past invents"
 date: 2019-10-17T11:22:16+06:00
 images: 
-  - "images/showcase/covid-1.jpg"
-  - "images/showcase/covid-2.jpg"
-  - "images/showcase/covid-3.jpg"
-  - "images/showcase/covid-4.jpg"
-  - "images/showcase/covid-5.jpg"
-  - "images/showcase/covid-6.jpg"  
-  - "images/showcase/covid-7.jpg"
-  - "images/showcase/covid-8.jpg"
+  - "images/bt-10.jpg"
+  - "images/bt-11.jpg"
+  - "images/bt-12.jpg"
+  - "images/bt-13.jpg"
+  - "images/bt-14.jpg"
+  - "images/bt-15.jpg"
+  - "images/bt-16.jpg"
+  - "images/bt-17.jpg"
+  - "images/bt-18.jpg"
+  - "images/bt-19.jpg"
+
   
 
 # meta description

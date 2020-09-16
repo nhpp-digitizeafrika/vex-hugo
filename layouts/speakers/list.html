@@ -16,7 +16,7 @@
         <h4>• SAM SHIVUTE INSPIRATIONS GUEST LECTURER, 2019 </h4>
         <h4>• 2X YOUTH REPRESENTATIVE, ONE ECONOMY FOUNDATION FUNDRAISING GALA 2018 & 2019 </h4>
       </div>
-      {{ range (where .Site.RegularPages "Section" "speakers") }}
+      {{ range sort (where .Site.RegularPages "Section" "speakers") }}
       <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
         <div class="block">
           <div class="gallery-overlay">
