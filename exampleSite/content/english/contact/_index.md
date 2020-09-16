@@ -12,7 +12,7 @@ subscription:
   bg_image : "images/bertha-1.jpg"
 # opennig hour
 opennig_hour:
-  title : "#Social" 
+  title : "Follow Bertha on her social media platforms" 
   day_time:
     - twitter: BerthaJTobias 
     - instgram: bertha_tobias
