@@ -5,7 +5,7 @@ $primary-font: 'Josefin Sans',
 sans-serif;
 $secondary-font: 'Droid Serif',
 serif;
-$primary-color: #b864aa;
+$primary-color: #f9a743;
 $icon-font: 'themefisher-font' !important;
 
 /*--
@@ -92,7 +92,7 @@ a {
 }
 
 .bg-1 {
-  background-image: url(../images/contact-bg.png);
+  background-image: url(../images/call-to-action.jpg);
 }
 
 .bg-orange {
@@ -109,7 +109,7 @@ a {
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(163, 158, 158, 0.7);
+    background: rgba(0, 0, 0, 0.7);
   }
 }
 
