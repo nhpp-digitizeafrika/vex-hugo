@@ -1,12 +1,12 @@
 baseurl = "http://www.nhpp.netlify.app"
-disableLanguages = []
+disableLanguages = "true"
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
 title = "NHPP Investments"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [Digitize Afrika](https://digitizeafrika.com)"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
@@ -18,49 +18,28 @@ languageName = "Fr"
 weight = 2
 [markup.goldmark.renderer]
 unsafe = true
-[[menu.footer]]
-name = "Blog"
-url = "blog"
-weight = 1
-[[menu.footer]]
-name = "Contact"
-url = "contact"
-weight = 2
-[[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions"
-weight = 3
-[[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
-weight = 4
 [[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Products"
+name = "Car Catalogue"
 url = "products"
 weight = 2
 [[menu.main]]
-name = "Blog"
-url = "blog"
+name = "About Us"
+url = "terms-conditions"
 weight = 3
 [[menu.main]]
-name = "Review"
-pre = "#"
-url = "testimonial"
-weight = 4
-[[menu.main]]
-name = "Contact"
+name = "Request for a Qoute"
 url = "contact"
-weight = 5
+weight = 4
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-currency = "$"
+currency = "N$"
 description = "This is meta description"
-logo = "images/logo.png"
+logo = "images/logo.jpg"
 logo_width = "100px"
 snipcart_api = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
 [[params.plugins.css]]

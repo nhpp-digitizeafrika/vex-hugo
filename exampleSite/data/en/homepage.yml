@@ -1,6 +1,6 @@
 ############################# banner ############################
 banner:
-  enable : true
+  enable : false
   title : "Believe in Technology, Make the change"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas, modi fugit in veritatis labore perferendis. Minima hic at, nostrum nihil!"
   image : "images/watch.png"
@@ -11,7 +11,7 @@ banner:
 
 ############################# Feature ############################
 features:
-  enable : true
+  enable : false
   title : "Our Core Features"
   image : "images/watch-2.png"
 
@@ -53,7 +53,7 @@ features:
 
 ############################# promo ############################
 promo:
-  enable : true
+  enable : false
   image : "images/watch.png"
   title : "Designed by professional , the benefit for creative gigs"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia vel labore, deleniti minima
@@ -64,7 +64,7 @@ promo:
 
 ############################# About Product #######################
 about_product:
-  enable : true
+  enable : false
   title : "Why Choose Apple Watch"
   items:
     # about product item loop
@@ -93,12 +93,14 @@ about_product:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "NHPP Car Import Dealership for Southern Africa"
+
+
 
 
 ################################## Subscription ###################
 subscription:
-  enable : true
+  enable : false
   bg_image : "images/call-to-action.jpg"
   title : "Get Product Updates"
   content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod"
@@ -108,22 +110,11 @@ subscription:
 ############################## Testimonial ##########################
 testimonial:
   enable : true
-  title : "Watch Review"
+  title : "Customer Testmonials"
   testimonial_item:
     # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
+    - name : "Immanuel Hatutale"
+      designation : "Car Dealer"
       image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
+      content : "I have used and still using NHPP to buy my car from Japan and am a very happy because of their great service and fast shipping process."
       
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."
-      
-    # testimonial item loop
-    - name : "Jonathon Andrew"
-      designation : "CEO, Themefisher"
-      image : "images/avater.png"
-      content : "A wonderful serenity has taken possession of my entire soul, like these sweet mornings of spring which I enjoy with my whole heart. I am alone, and feel the charm of existence in this spot, which was created for the bliss of souls like mine. I am so happy, my dear friend, so absorbed in the exquisite sense of mere tranquil existence, that I neglect my talents."

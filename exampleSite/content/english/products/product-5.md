@@ -1,25 +1,22 @@
 ---
-title: "Redmi Watch"
+title: "VW Golf"
 date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-5.png"
+image: "images/showcase/showcase-9.png"
 images: 
-  - "images/showcase/showcase-5.png"
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+  - "images/showcase/nhpp-9.jpg"
+  - "images/showcase/nhpp-10.jpg"
 
 # meta description
 description : "this is meta description"
 
 # product Price
-price: "30.00"
-discount_price: "25.00"
+price: "135,000.00"
+discount_price: "130,000.00"
 
 # product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
+availability : ["Available"]
 
 draft: false
 ---
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+A short description of the car
