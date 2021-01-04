@@ -3,23 +3,18 @@ title: "Contact"
 description : "this is a meta description"
 
 office:
-  title : "Central Office"
-  mobile : "0124857985320"
-  email : "demo@email.com"
-  location : "Dhaka, Bangladedsh"
-  content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+  title : "Our Contact Details"
+  mobile : "+264813296489 (NAM) or +818077914982 (JAP)"
+  email : "nhppivestement@gmail.com"
+  content : "We are located in Windhoek, Namibia. You can contact us using Whatsapp on the numbers below, send us an email or complete the form below."
 
-# opennig hour
+#opennig hour
 opennig_hour:
-  title : "Opening Hours"
+  title : "Follow us on social media platforms" 
   day_time:
-    - "Monday: 9:00 – 19:00"
-    - "Tuesday: 9:00 – 19:00"
-    - "Wednesday: 9:00 – 19:00"
-    - "Thursday: 9:00 – 19:00"
-    - "Friday: 9:00 – 19:00"
-    - "Saturday: 9:00 – 19:00"
-    - "sunday: 9:00 – 19:00"
+    - twitter: NHPP Cars 
+    - instgram: NHPP Cars
+    - facebook: NHPP Cars
     
 draft: false
 ---
