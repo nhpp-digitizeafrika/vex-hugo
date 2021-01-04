@@ -18,4 +18,4 @@ colors : ["In Stock"]
 draft: false
 ---
 
-A short description of the car...
+Red VW Polo
