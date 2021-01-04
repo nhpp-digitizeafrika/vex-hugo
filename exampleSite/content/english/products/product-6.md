@@ -13,9 +13,10 @@ price: "130,000.00"
 discount_price: "125,000.00"
 
 # product variation
-availability : ["Available"]
+colors : ["black","white","gray"]
+sizes : ["small","medium","large"]
 
 draft: false
 ---
 
-A short description of the car
+A short description of the car...
