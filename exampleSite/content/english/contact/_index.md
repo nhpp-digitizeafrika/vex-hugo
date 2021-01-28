@@ -5,7 +5,7 @@ description : "this is a meta description"
 office:
   title : "Our Contact Details"
   mobile : "+264813296489 (NAM) or +818077914982 (JAP)"
-  email : "nhppivestement@gmail.com"
+  email : "sales@nhppinvestments.com"
   content : "We are located in Windhoek, Namibia. You can contact us using Whatsapp on the numbers below, send us an email or complete the form below."
 
 #opennig hour
